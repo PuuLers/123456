@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\controllers\\apicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\testapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\testapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|c:\\users\\\u0434\u0430\u043D\u0438\u0438\u043B\\desktop\\mynewtestapidotnetaspwpfcsharpsolushensimpleprojectformyteacher\\api\\testapi\\models\\staffpostdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EC5B7FC-2585-49DE-AC34-86BCC9CFEEE6}|testAPI\\testAPI.csproj|solutionrelative:testapi\\models\\staffpostdivision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testAPI.http",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\testAPI.http",
+              "RelativeDocumentMoniker": "testAPI\\testAPI.http",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\testAPI.http",
+              "RelativeToolTip": "testAPI\\testAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-14T06:10:28.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "testAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "testAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T06:08:34.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApiController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Controllers\\ApiController.cs",
+              "RelativeDocumentMoniker": "testAPI\\Controllers\\ApiController.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Controllers\\ApiController.cs",
+              "RelativeToolTip": "testAPI\\Controllers\\ApiController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswFwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T11:08:38.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "testAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\appsettings.json",
+              "RelativeToolTip": "testAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-13T09:33:22.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StaffPostDivision.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Models\\StaffPostDivision.cs",
+              "RelativeDocumentMoniker": "testAPI\\Models\\StaffPostDivision.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Models\\StaffPostDivision.cs",
+              "RelativeToolTip": "testAPI\\Models\\StaffPostDivision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:32:27.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "testAPI\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Models\\Users.cs",
+              "RelativeToolTip": "testAPI\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:28:45.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Program.cs",
+              "RelativeDocumentMoniker": "testAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0430\u043D\u0438\u0438\u043B\\Desktop\\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\\API\\testAPI\\Program.cs",
+              "RelativeToolTip": "testAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T09:22:49.065Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

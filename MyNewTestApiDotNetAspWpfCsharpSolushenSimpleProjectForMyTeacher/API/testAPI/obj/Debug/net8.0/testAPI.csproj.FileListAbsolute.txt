@@ -1,0 +1,440 @@
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\testAPI.staticwebassets.endpoints.json
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\testAPI.exe
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\testAPI.deps.json
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\testAPI.runtimeconfig.json
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\testAPI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\testAPI.pdb
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Xeuit\Desktop\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.csproj.AssemblyReference.cache
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.AssemblyInfoInputs.cache
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.AssemblyInfo.cs
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.csproj.CoreCompileInputs.cache
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\scopedcss\bundle\testAPI.styles.css
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.csproj.Up2Date
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\refint\testAPI.dll
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.pdb
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\testAPI.genruntimeconfig.cache
+C:\Users\Xeuit\Desktop\API\testAPI\obj\Debug\net8.0\ref\testAPI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\appsettings.Development.json
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\testAPI.staticwebassets.endpoints.json
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\appsettings.json
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\testAPI.exe
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\testAPI.deps.json
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\testAPI.runtimeconfig.json
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\testAPI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\testAPI.pdb
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Azure.Core.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Azure.Identity.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Humanizer.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.ClientModel.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.CodeDom.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.csproj.AssemblyReference.cache
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.AssemblyInfoInputs.cache
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.AssemblyInfo.cs
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.csproj.CoreCompileInputs.cache
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\scopedcss\bundle\testAPI.styles.css
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\staticwebassets.build.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\staticwebassets.development.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.csproj.Up2Date
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.dll
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\refint\testAPI.dll
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.pdb
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\testAPI.genruntimeconfig.cache
+D:\Desktop\1-2 сессия\API\testAPI\obj\Debug\net8.0\ref\testAPI.dll
+D:\Desktop\1-2 сессия\API\testAPI\bin\Debug\net8.0\libman.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\libman.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\testAPI.staticwebassets.endpoints.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\testAPI.exe
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\testAPI.deps.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\testAPI.runtimeconfig.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\testAPI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\testAPI.pdb
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.csproj.AssemblyReference.cache
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.AssemblyInfoInputs.cache
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.AssemblyInfo.cs
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.csproj.CoreCompileInputs.cache
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\scopedcss\bundle\testAPI.styles.css
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.csproj.Up2Date
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\refint\testAPI.dll
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.pdb
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\testAPI.genruntimeconfig.cache
+C:\Users\Даниил\Desktop\MyNewTestApiDotNetAspWpfCsharpSolushenSimpleProjectForMyTeacher\API\testAPI\obj\Debug\net8.0\ref\testAPI.dll
